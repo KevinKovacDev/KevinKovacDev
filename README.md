@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img height="200" src="bla.svg"  />
+  <img height="200" src="header_img.svg"  />
 </div>
 
 ###
