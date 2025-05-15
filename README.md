@@ -13,6 +13,17 @@
 
 
 ###
+##  Developer Akademie
+
+<table >
+  <tr>
+    <td><img src="./assets/da_logo.svg" width="40" alt="Mentoring Icon" /></td>
+    <td style="padding-left: 12px;">
+      <span style="color: white; font-weight: bold;">Head of Mentoring</span><br />
+      <span style="color: white;">Developer Akademie</span>
+    </td>
+  </tr>
+</table>
 
 ##  Tech Stack
 
@@ -39,18 +50,6 @@
 ###
 
 
-
-##  Developer Akademie
-
-<table style="background-color:#124658; padding: 12px; border-radius: 8px;">
-  <tr>
-    <td><img src="./assets/icons/mentoring.png" width="40" alt="Mentoring Icon" /></td>
-    <td style="padding-left: 12px;">
-      <span style="color: white; font-weight: bold;">Head of Mentoring</span><br />
-      <span style="color: white;">Developer Akademie</span>
-    </td>
-  </tr>
-</table>
 
 ##  GitHub Stats
 
