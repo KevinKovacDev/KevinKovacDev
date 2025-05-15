@@ -2,9 +2,14 @@
   <img src="./assets/header.svg" alt="Header" width="100%" />
 </p>
 
-<h3 align="center">Softwareentwickler • Open Source Fan • Kaffee-Junkie</h3>
 
-
+<p align="center">
+  👋 Hi! I'm Kevin — a physicist by mindset, a developer by passion. I love breaking down complexity into clear, intuitive code.
+  <br /><br />
+  As Head of Mentoring and Content at the Developer Akademie, I support learners not only through guidance, but by crafting hands-on learning material that turns theory into practical skill.
+  <br /><br />
+  My drive? Making knowledge accessible — whether it's through a clean interface, a great codebase, or a well-structured lesson.
+</p>
 
 
 ###
@@ -62,7 +67,7 @@
 
 ##  Kontakt
 
-<div align="left" style="display: flex; gap: 16px; align-items: center;">
+<div align="left" style="display: flex; gap: 16px; align-items: center; background-color: #124658;padding: 16px; border-radius: 8px;">
   <!-- Email -->
   <a href="mailto:deine.email@example.com" target="_blank" title="Schreib mir eine E-Mail" style="display: flex; align-items: center; text-decoration: none; gap: 8px;">
     <img src="./assets/icons/email.svg" width="32" height="32" alt="E-Mail" />
