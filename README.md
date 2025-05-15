@@ -42,13 +42,15 @@
 
 ##  Developer Akademie
 
-<div style="max-width: 300px; display: flex; align-items: center; border: 1px solid #e0e0e0; border-radius: 10px; padding: 12px 16px; box-shadow: 2px 4px 10px rgba(0, 0, 0, 0.05); background-color: #ffffff;">
-  <img src="./assets/icons/mentoring.png" alt="Developer Akademie Icon" width="40" height="40" style="margin-right: 12px;" />
-  <div style="font-size: 14px; color: #333;">
-    <div style="font-weight: bold; color: #124658;">Head of Mentoring</div>
-    <div style="color: #124658;">Developer Akademie</div>
-  </div>
-</div>
+<table style="background-color:#124658; padding: 12px; border-radius: 8px;">
+  <tr>
+    <td><img src="./assets/icons/mentoring.png" width="40" alt="Mentoring Icon" /></td>
+    <td style="padding-left: 12px;">
+      <span style="color: white; font-weight: bold;">Head of Mentoring</span><br />
+      <span style="color: white;">Developer Akademie</span>
+    </td>
+  </tr>
+</table>
 
 ##  GitHub Stats
 
