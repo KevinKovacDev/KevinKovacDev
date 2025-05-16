@@ -70,14 +70,14 @@
 
 ###
 
-##  Kontakt
+##  Contact
 
 
-  <a href="mailto:deine.email@example.com" target="_blank" title="Schreib mir eine E-Mail" style="display: flex; align-items: center; text-decoration: none; gap: 8px;">
+  <a href="mailto:deine.email@example.com" target="_blank" title="Schreib mir eine E-Mail" style="text-decoration: none;">
     <img src="./assets/icons/email.svg" width="32" height="32" alt="E-Mail" />
   </a>
 
-  <a href="https://www.linkedin.com/in/dein-profilname" target="_blank" title="Mein LinkedIn-Profil" style="display: flex; align-items: center; text-decoration: none; gap: 8px;">
+  <a href="https://www.linkedin.com/in/dein-profilname" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none;">
     <img src="./assets/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
 
