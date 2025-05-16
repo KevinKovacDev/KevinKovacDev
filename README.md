@@ -73,7 +73,7 @@
 ##  Contact
 
   <a href="https://de.linkedin.com/in/kevin-kovac-8b78721a9" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
-    <img src="./assets/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
+    <img src="./assets/icons/linkedin.png" width="32" height="32" alt="LinkedIn" />
   </a>
 
 ###
