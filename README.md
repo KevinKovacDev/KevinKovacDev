@@ -73,7 +73,7 @@
 ##  Contact
 
 
-  <a href="mailto:deine.email@example.com" target="_blank" title="Schreib mir eine E-Mail" style="text-decoration: none;">
+  <a href="https://www.google.com/" target="_blank" title="Schreib mir eine E-Mail" style="text-decoration: none;">
     <img src="./assets/icons/email.svg" width="32" height="32" alt="E-Mail" />
   </a>
 
