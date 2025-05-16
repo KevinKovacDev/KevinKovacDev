@@ -77,7 +77,9 @@
     <img src="./assets/icons/email.svg" width="32" height="32" alt="E-Mail" />
   </a>
 
-  <a href="https://www.linkedin.com/in/dein-profilname" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none;">
+###
+
+  <a href="https://www.linkedin.com/in/dein-profilname" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
     <img src="./assets/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
 
