@@ -40,8 +40,8 @@
 <h3> Backend</h3>
 <p align="left">
   <img src="./assets/skill_icons/rest_api.png" height="32" alt="REST API" />
-  <img src="./assets/skill_icons/Python.png.png" height="32" alt="Python" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/Django.png.png" height="32" alt="Django" style="margin-right:8px;" />
+  <img src="./assets/skill_icons/Python.png" height="32" alt="Python" style="margin-right:8px;" />
+  <img src="./assets/skill_icons/Django.png" height="32" alt="Django" style="margin-right:8px;" />
 </p>
 
 <h3> Dev-Tools</h3>
