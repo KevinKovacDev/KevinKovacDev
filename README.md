@@ -72,16 +72,8 @@
 
 ##  Contact
 
-
-  <a href="https://www.google.com/" target="_blank" title="Schreib mir eine E-Mail" style="text-decoration: none;">
-    <img src="./assets/icons/email.svg" width="32" height="32" alt="E-Mail" />
-  </a>
-
-###
-
-  <a href="https://www.linkedin.com/in/dein-profilname" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
+  <a href="https://de.linkedin.com/in/kevin-kovac-8b78721a9" target="_blank" title="Mein LinkedIn-Profil" style="text-decoration: none">
     <img src="./assets/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
   </a>
-
 
 ###
