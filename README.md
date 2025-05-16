@@ -25,7 +25,7 @@
   </tr>
 </table>
 
-##  Tech Stack
+## Preferred Tech Stack
 
 <h3> Frontend</h3>
 <p align="left">
@@ -33,18 +33,22 @@
   <img src="./assets/skill_icons/CSS.png" height="32" alt="CSS" style="margin-right:8px;" />
   <img src="./assets/skill_icons/ts.png" height="32" alt="TypeScript" style="margin-right:8px;" />
   <img src="./assets/skill_icons/js.png" height="32" alt="JavaScript" style="margin-right:8px;" />
-  <img src="./assets/skill_icons/Angular.png" height="32" alt="Angular" style="margin-right:8px;" />
+  <img src="./assets/skill_icons/Angular_new.png" height="32" alt="Angular" style="margin-right:8px;" />
   <img src="./assets/skill_icons/firebase.png" height="32" alt="Firebase" />
 </p>
 
 <h3> Backend</h3>
 <p align="left">
   <img src="./assets/skill_icons/rest_api.png" height="32" alt="REST API" />
+  <img src="./assets/skill_icons/Python.png.png" height="32" alt="Python" style="margin-right:8px;" />
+  <img src="./assets/skill_icons/Django.png.png" height="32" alt="Django" style="margin-right:8px;" />
 </p>
 
 <h3> Dev-Tools</h3>
 <p align="left">
   <img src="./assets/skill_icons/git.png" height="32" alt="Git" />
+  <img src="./assets/skill_icons/Figma.png" height="32" alt="Figma" />
+  <img src="./assets/skill_icons/Jira.png" height="32" alt="Jira" />
 </p>
 
 ###
@@ -68,18 +72,14 @@
 
 ##  Kontakt
 
-<div align="left" style="display: flex; gap: 16px; align-items: center; background-color: #124658;padding: 16px; border-radius: 8px;">
-  <!-- Email -->
+
   <a href="mailto:deine.email@example.com" target="_blank" title="Schreib mir eine E-Mail" style="display: flex; align-items: center; text-decoration: none; gap: 8px;">
     <img src="./assets/icons/email.svg" width="32" height="32" alt="E-Mail" />
-    <span style="font-size: 16px; color: white;">E-Mail</span>
   </a>
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/dein-profilname" target="_blank" title="Mein LinkedIn-Profil" style="display: flex; align-items: center; text-decoration: none; gap: 8px;">
     <img src="./assets/icons/linkedin.svg" width="32" height="32" alt="LinkedIn" />
-    <span style="font-size: 16px; color: white;">LinkedIn</span>
   </a>
-</div>
+
 
 ###
