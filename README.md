@@ -19,7 +19,7 @@
   <tr>
     <td><img src="./assets/da_logo.png" width="40" alt="Mentoring Icon" /></td>
     <td style="padding-left: 12px;">
-      <span style="color: white; font-weight: bold;">Head of Mentoring</span><br />
+      <span style="color: white; font-weight: bold;">Head of Content</span><br />
       <span style="color: white;">Developer Akademie</span>
     </td>
   </tr>
